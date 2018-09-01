@@ -2,7 +2,8 @@
 from basic
 edit later
 
-* git add <filepath>
-* git submit -m "<description>"
+* git clone \<command from git\>
+* git add \<filepath\>
+* git commit -m "\<description\>"
 * git push -u origin master 
 * git pull
